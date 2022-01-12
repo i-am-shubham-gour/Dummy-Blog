@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "Name": "anajidnx",
+      "Image": "https://images.unsplash.com/photo-1641974747505-b8e77b521aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "Description": "xasacasc",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "Comment": "comment here",
+      "postID": 1,
+      "id": 1
+    },
+    {
+      "Comment": "hello",
+      "postID": 1,
+      "id": 2
+    },
+    {
+      "Comment": "i am shubham",
+      "postID": 2,
+      "id": 3
+    },
+    {
+      "Comment": "123456",
+      "postID": 2,
+      "id": 4
+    },
+    {
+      "Comment": "abcncajscna",
+      "postID": 1,
+      "id": 5
+    }
+  ],
+  "likes": [
+
+  ], 
+  "dislikes": [
+    
+  ]
+}
